@@ -1,7 +1,7 @@
 {
   "name": "@theyahia/iyzico-mcp",
-  "version": "1.0.1",
-  "description": "MCP server for iyzico payment gateway (Turkey)",
+  "version": "1.0.2",
+  "description": "MCP server for iyzico — payment gateway, 3DS, refunds (Turkey)",
   "type": "module",
   "main": "dist/index.js",
   "bin": {
@@ -44,7 +44,8 @@
     "turkey-api",
     "iyzico",
     "payments",
-    "typescript"
+    "typescript",
+    "api"
   ],
   "license": "MIT",
   "repository": {
